@@ -1,0 +1,11 @@
+Package: trialLens
+Type: Package
+Title: Explore Plant Breeding Field Trials
+Version: 0.1.0
+Authors@R: person("Emily", "Billow", role = c("aut", "cre"), email = "emilybillow27-sudo@users.noreply.github.com")
+Description: Import T3 phenotype exports, inspect field layouts, summarize missingness, compare observed performance with checks, and generate interactive standalone reports. Comparisons are descriptive and do not adjust for trial design.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Imports: jsonlite
+URL: https://github.com/emilybillow27-sudo/trialLens
+BugReports: https://github.com/emilybillow27-sudo/trialLens/issues
